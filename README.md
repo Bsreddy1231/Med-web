@@ -21,6 +21,9 @@ However, there are also challenges associated with virtual health care, such as 
 
 ## Team Details
 `Team number` : VH071
+
+| Name    | Email           |
+|---------|-----------------|
 |P BINDU SREE|99210041382@klu.ac.in|
 | B V SIVA REDDY |99210041324@klu.ac.in |
 | N HASIKA SEETHU| 99220041071@klu.ac.in |
