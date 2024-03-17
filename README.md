@@ -5,7 +5,7 @@
 </h1>
 
 #   [`Demo video link `](https://drive.google.com/file/d/1hfxh_06gomQVWspn82vKl8e62z2Ghkfg/view?usp=drive_link) 
-mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
+
 ## Team Details
 `Team number` : VH071
 |P BINDU SREE|99210041382@klu.ac.in|
